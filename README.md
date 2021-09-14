@@ -1,7 +1,7 @@
 [![Header](https://raw.githubusercontent.com/XrulDroidX/XRX/master/menu.webp "Header")]
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/XrulDroidX/XRX/master/wave.gif" width="30px">
 
-My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava and currently working at IBM. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is XRX and I'm a software Student. I'm from Indonesian, living in Atjeh and currently working at My house :v
 
 ## &#x270d; Blog & Writing
