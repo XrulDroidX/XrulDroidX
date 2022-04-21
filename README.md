@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/XrulDroidX/XrulDroidX/menu.webp "Header")]
+[![Header](https://raw.githubusercontent.com/XrulDroidX/XrulDroidX/menu.webp)]
 
 # Hello, Bruh! <img src="https://raw.githubusercontent.com/XrulDroidX/XRX/master/wave.gif" width="30px">
 
