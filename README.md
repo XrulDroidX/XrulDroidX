@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🐣 About Me:
 🔭 I’m currently working on WA BOT PROJECTS<br>👯 I’m looking to collaborate on 👆<br>🤝 I’m looking for help with 👆<br>🌱 I’m currently learning NodeJs<br>💬 Ask me about : Android  OPREK / MOD / TWEAK<br>⚡ Fun fact : Never be afraid to try and keep trying
 
 
