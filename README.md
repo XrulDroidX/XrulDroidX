@@ -1,27 +1,81 @@
-<h1 align="center">Hi 👋, I'm XRX</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xruldroidx&label=Profile%20views&color=0e75b6&style=flat" alt="xruldroidx" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xruldroidx" alt="xruldroidx" /></a> </p>
-
-- 🔭 I’m currently working on **Nothing**
-
-- 🌱 I’m currently learning **Node Js, Phyton, TypeScript**
-
-- 👯 I’m looking to collaborate on [WhatsApp Bot Project](Ai)
-
-- 🤝 I’m looking for help with **-**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:0f172a,100:020617&text=01001000%2001101001&fontColor=38bdf8&fontSize=20&animation=fadeIn" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=500&color=22D3EE&center=true&vCenter=true&width=600&lines=01001000+01101001;01000011+01101111+01100100+01100101;01010100+01101000+01101001+01101110+01101011+01101001+01101110+01100111" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xruldroidx&show_icons=true&locale=en&layout=compact" alt="xruldroidx" /></p>
+<h1 align="center">
+  Hi, I’m XRX
+</h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xruldroidx&show_icons=true&locale=en" alt="xruldroidx" /></p>
+<h3 align="center">
+  Frontend Engineer · UI Thinker · Builder from Indonesia
+</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xruldroidx&" alt="xruldroidx" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Designing+interfaces+with+logic;Building+systems+that+scale;Learning+by+shipping" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xruldroidx&label=Profile%20Views&color=38bdf8&style=flat" />
+</p>
+
+---
+
+<h3>
+  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/user.svg" width="18" />
+  About
+</h3>
+
+<ul>
+  <li>Currently focused on structured learning and real projects</li>
+  <li>Studying Node.js, Python, TypeScript</li>
+  <li>Open for collaboration on AI-based WhatsApp Bot</li>
+  <li>Principle: clarity beats complexity</li>
+</ul>
+
+---
+
+<h3>
+  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/code.svg" width="18" />
+  Tech Stack
+</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,php,firebase,mongodb,mysql,postgres,linux,android&perline=7" />
+</p>
+
+---
+
+<h3>
+  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/award.svg" width="18" />
+  Achievements
+</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xruldroidx&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+<h3>
+  <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/bar-chart-3.svg" width="18" />
+  GitHub Analytics
+</h3>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=xruldroidx&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xruldroidx&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=xruldroidx&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>Code is a quiet architecture of thought.</i>
+</p>
